@@ -17,7 +17,7 @@
 #include "string_util.h"
 
 #define MAX_LINE	512
-
+//test
 typedef struct tagLogInfo {
 	char date_time[32];
 	long tid;
